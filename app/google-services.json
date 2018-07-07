@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "905788207853",
+    "firebase_url": "https://percobaan-1234f.firebaseio.com",
+    "project_id": "percobaan-1234f",
+    "storage_bucket": "percobaan-1234f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905788207853:android:b2e54dac5861e694",
+        "android_client_info": {
+          "package_name": "com.example.nightf45.percobaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905788207853-sbqodall1bjils0mevrfh8uek331he3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nightf45.percobaan",
+            "certificate_hash": "a340d354fa58c7e7035d8e60958556a8d30e2925"
+          }
+        },
+        {
+          "client_id": "905788207853-cuqvlhn0d4btilchjnb0pvbr1lnita70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLP1S_QOWKShFvXWiZo3SDWMzZQTNn5ic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905788207853-cuqvlhn0d4btilchjnb0pvbr1lnita70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
